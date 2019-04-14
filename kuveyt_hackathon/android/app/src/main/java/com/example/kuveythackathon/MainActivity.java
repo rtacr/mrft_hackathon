@@ -1,4 +1,4 @@
-package com.example.mrfthackathon;
+package com.example.kuveythackathon;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

@@ -1,4 +1,4 @@
-# mrft_hackathon
+# kuveyt_hackathon
 
 A new Flutter project.
 

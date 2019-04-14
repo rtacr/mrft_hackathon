@@ -3,7 +3,8 @@ Sosyal Bankacılık
 
 
 # Screenshots
-<img alt="aa" src="screenshots/Screenshot_1555238892.png" width="200">
+
+<img src="screenshots/Screenshot_1555238892.png" width="200">
 <img src="screenshots/Screenshot_1555238862.png" width="200">
 <img src="screenshots/Screenshot_1555238868.png" width="200">
 <img src="screenshots/Screenshot_1555238874.png" width="200">
